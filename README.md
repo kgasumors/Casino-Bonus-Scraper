@@ -2,6 +2,9 @@
 
 A full-stack application that extracts casino bonus offers, wagering requirements, and minimum deposits from a public webpage using Python and the Gemini API, then stores the structured results in JSON for the Vue 3 frontend.
 
+**Live Demo:** [View Website](https://casinobonusscraper.onrender.com)  
+**Source Code:** [GitHub Repository](https://github.com/kgasumors/Casino-Bonus-Scraper)
+
 ## Tech Stack
 
 - **Frontend:** Vue 3, Vite, JavaScript, Tailwind
